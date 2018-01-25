@@ -1,0 +1,409 @@
+- id: boehm-bredif-gierlinger-kraemer-lindenbergh-liu-michel-sirmacek-2016
+  type: article-journal
+  author:
+    - family: Böhm
+      given: J.
+    - family: Bredif
+      given: M.
+    - family: Gierlinger
+      given: T.
+    - family: Krämer
+      given: M.
+    - family: Lindenbergh
+      given: R.
+    - family: Liu
+      given: K.
+    - family: Michel
+      given: F.
+    - family: Sirmacek
+      given: B.
+  issued:
+    date-parts:
+      - [2016]
+  container-title: ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+  DOI: 10.5194/isprs-archives-XLI-B3-301-2016
+  number-of-pages: 7
+  page: 301-307
+  page-first: 301
+  title: "The IQmulus Urban Showcase: Automatic Tree Classification and Identification in Huge Mobile Mapping Point Clouds"
+  volume: XLI-B3
+
+- id: ruppert-dambruch-kraemer-2015
+  type: chapter
+  author:
+    - family: Ruppert
+      given: Tobias
+    - family: Dambruch
+      given: Jens
+    - family: Krämer
+      given: Michel
+    - family: Balke
+      given: T.
+    - family: Gavanelli
+      given: M.
+    - family: Bragaglia
+      given: S.
+    - family: Chesani
+      given: F.
+    - family: Milano
+      given: M.
+    - family: Kohlhammer
+      given: Jörn
+  editor:
+    - family: Reddick
+      given: Christopher G.
+  issued:
+    date-parts:
+      - [2015]
+  container-title: "Policy practice and digital science: Integrating complex systems, social simulation and public administration in policy research"
+  publisher: Springer
+  title: Visual Decision Support for Policy Making – Advancing Policy Analysis with Visualization
+  DOI: 10.1007/978-3-319-12784-2_15
+  number-of-pages: 33
+  page: 321-353
+  page-first: 321
+
+- id: kraemer-senner-2015
+  type: article-journal
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Senner
+      given: Ivo
+  issued:
+    date-parts:
+      - [2015]
+  container-title: Computers & Graphics
+  volume: 49
+  DOI: 10.1016/j.cag.2015.02.005
+  ISSN: 0097-8493
+  number-of-pages: 13
+  page: 69-81
+  page-first: 69
+  title: A Modular Software Architecture for Processing of Big Geospatial Data in the Cloud
+  URL: http://www.sciencedirect.com/science/article/pii/S0097849315000138
+
+- id: kraemer-gutbell-2015
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Gutbell
+      given: Ralf
+  issued:
+    date-parts:
+      - [2015]
+  container-title: Proceedings of the Twentieth International ACM Conference on 3D Web Technologies (Web3D)
+  DOI: 10.1145/2775292.2775303
+  number-of-pages: 9
+  page: 189-197
+  page-first: 189
+  eventplace: Heraklion, Crete, Greece
+  publisher: ACM
+  title: A case study on 3D geospatial applications in the Web using state-of-the-art WebGL frameworks
+
+- id: malewski-dambruch-kraemer-2015
+  type: paper-conference
+  author:
+    - family: Malewski
+      given: Christian
+    - family: Dambruch
+      given: Jens
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2015]
+  container-title: Proceedings of the 20th International Conference on Urban Planning, Regional Development and Information Society REAL CORP
+  number-of-pages: 8
+  page: 609-616
+  page-first: 609
+  publisher: CORP – Competence Center of Urban and Regional Planning
+  publisher-place: Schwechat, Austria
+  title: Towards Interactive Geodata Analysis through a Combination of Domain-Specific Languages and 3D Geo Applications in a Web Portal Environment
+
+-
+  id: kraemer-stein-2014
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Stein
+      given: Andreas
+  issued:
+    date-parts:
+      - [2014]
+  container-title: Proceedings of the 19th International Conference on Urban Planning, Regional Development and Information Society REAL CORP
+  number-of-pages: 10
+  page: 99-108
+  page-first: 99
+  publisher: CORP – Competence Center of Urban and Regional Planning
+  publisher-place: Schwechat, Austria
+  title: "Automated Urban Management Processes: Integrating a Graphical Editor for Modular Domain-Specific Languages into a 3D GIS"
+
+- id: kraemer-2014
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2014]
+  container-title: Proceedings of the 7th International Conference on Utility and Cloud Computing (UCC)
+  eventplace: London, UK
+  ISBN: 978-1-4799-7881-6
+  number-of-pages: 6
+  page: 824-829
+  page-first: 824
+  publisher: IEEE
+  title: Controlling the Processing of Smart City Data in the Cloud with Domain-Specific Languages
+
+- id: dambruch-kraemer-2014
+  type: paper-conference
+  author:
+    - family: Dambruch
+      given: Jens
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2014]
+  container-title: Proceedings of the Nineteenth International ACM Conference on 3D Web Technologies (Web3D)
+  DOI: 10.1145/2628588.2628591
+  eventplace: Vancouver, British Columbia, Canada
+  ISBN: 978-1-4503-3015-2
+  number-of-pages: 8
+  page: 117-124
+  page-first: 117
+  publisher: ACM
+  title: Leveraging Public Participation in Urban Planning with 3D Web Technology
+
+- id: kraemer-ludlow-khan-2013
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Ludlow
+      given: David
+    - family: Khan
+      given: Zaheer
+  issued:
+    date-parts:
+      - [2013]
+  container-title: Proceedings of the 27th European Conference on Modelling and Simulation (ECMS)
+  eventplace: Ålesund, Norway
+  number-of-pages: 8
+  page: 673-680
+  page-first: 673
+  publisher: European Council for Modelling and Simulation
+  title: Domain-Specific Languages for Agile Urban Policy Modelling
+
+- id: kraemer-kehlenbach-2013
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Kehlenbach
+      given: Andreas
+  issued:
+    date-parts:
+      - [2013]
+  container-title: Proceedings of the 27th European Conference on Modelling and Simulation (ECMS)
+  eventplace: Ålesund, Norway
+  number-of-pages: 7
+  page: 75-81
+  page-first: 75
+  publisher: European Council for Modelling and Simulation
+  title: Interactive, GPU-Based Urban Growth Simulation for Agile Urban Policy Modelling
+
+- id: coors-kraemer-2011
+  type: paper-conference
+  author:
+    - family: Coors
+      given: Volker
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2011]
+  container-title: Proceedings of the 28th Urban Data Management Symposium UDMS
+  eventplace: Delft, The Netherlands
+  number-of-pages: 6
+  page: 7-12
+  page-first: 7
+  publisher: ISPRS
+  title: Integrating Quality Management into a 3D Geospatial Server
+
+- id: thum-kraemer-2011
+  type: paper-conference
+  author:
+    - family: Thum
+      given: Simon
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2011]
+  container-title: Proceedings of the Sixteenth International ACM Conference on 3D Web Technologies (Web3D)
+  eventplace: New York
+  number-of-pages: 8
+  page: 165-172
+  page-first: 165
+  publisher: ACM
+  title: Reducing Maintenance Complexity of User-centric Web Portrayal Services
+
+- id: kraemer-dummer-ruppert-kohlhammer-2011
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Dummer
+      given: Martin
+    - family: Ruppert
+      given: Tobias
+    - family: Kohlhammer
+      given: Jörn
+  issued:
+    date-parts:
+      - [2011]
+  container-title: GeoViz Hamburg 2011 Workshop
+  eventplace: Hamburg, Germany
+  publisher: "HafenCity University, Hamburg and International Cartographic Association (ICA): Commission on GeoVisualization"
+  title: Tackling Uncertainty in Combined Visualizations of Underground Information and 3D City Models
+
+- id: reitz-kraemer-thum-2009
+  type: paper-conference
+  author:
+    - family: Reitz
+      given: Thorsten
+    - family: Krämer
+      given: Michel
+    - family: Thum
+      given: Simon
+  issued:
+    date-parts:
+      - [2009]
+  container-title: Proceedings of the 14th International ACM Conference on 3D Web Technologies (Web3D)
+  eventplace: New York
+  number-of-pages: 9
+  page: 137-145
+  page-first: 137
+  publisher: ACM
+  title: A Processing Pipeline for X3D Earth-based Spatial Data View Services
+
+- id: kraemer-haist-reitz-2007
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Haist
+      given: Jörg
+    - family: Reitz
+      given: Thorsten
+  issued:
+    date-parts:
+      - [2007]
+  container-title: Proceedings of the 5th Italian Chapter Conference
+  pages: 167-172
+  publisher: European Association for Computer Graphics (Eurographics)
+  title: Methods for Spatial Data Quality of 3D City Models
+
+- id: hiemenz-kraemer-2017
+  type: article-journal
+  author:
+    - family: Hiemenz
+      given: Benedikt
+    - family: Krämer
+      given: Michel
+  issued:
+    date-parts:
+      - [2018]
+  container-title: International Journal of Information Security
+  title: Dynamic Searchable Symmetric Encryption in Geospatial Cloud Storage
+  status: Submitted, under review
+
+- id: kraemer-frese-2017
+  type: article-journal
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Frese
+      given: Sven
+  issued:
+    date-parts:
+      - [2019]
+  title: Implementing Secure Applications in Smart City Clouds Using Microservices
+  status: Submitted, under review
+
+- id: kraemer-mortara-rocca-2017
+  type: article-journal
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Mortara
+      given: Michela
+    - family: Rocca
+      given: Luigi
+    - family: Spagnuolo
+      given: Michela
+  issued:
+    date-parts:
+      - [2017]
+  container-title: Journal of Systems and Software
+  title: Workflow-based processing of large geospatial data in the Cloud
+  status: Draft
+
+- id: dummer2011
+  type: paper-conference
+  author:
+    - family: Dummer
+      given: Martin
+    - family: Krämer
+      given: Michel
+    - family: Ruppert
+      given: Tobias
+    - family: Kohlhammer
+      given: Jörn
+  issued:
+    date-parts:
+    - [2011]
+  title: Visualizing Uncertain Underground Information for Urban Management
+  container-title: Working with Uncertainty Workshop, IEEE VisWeek 2011
+
+- id: kraemer2010
+  type: paper-conference
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Klien
+      given: Eva
+  issued:
+    date-parts:
+    - [2010]
+  title: Visualisation and integration of 3D underground information into city models with DeepCity3D / Visualisierung und Integration von dreidimensionalen Untergrunddaten und Stadtmodellen mit DeepCity3D
+  container-title: GeoDarmstadt
+  page: 327-328
+
+- id: kraemer2015
+  author:
+    - family: Quak
+      given: Ewald
+    - family: Spagnuolo
+      given: Michela
+    - family: Holweg
+      given: Daniel
+    - family: Brédif
+      given: Mathieu
+    - family: Krämer
+      given: Michel
+    - family: Nguyen Thai
+      given: Binh
+    - family: Boehm
+      given: Jan
+    - family: Kießlich
+      given: Norman
+  issued:
+    date-parts:
+    - [2015]
+  title: IQmulus Scalability Testing - First Results
+  container-title: Workshop on GeoBigData, ISPRS Geospatial Week

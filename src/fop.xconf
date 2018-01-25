@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+  <renderers>
+    <renderer mime="application/pdf">
+      <fonts>
+        <!-- Set encoding-mode to single-byte for Adobe Garamond Pro font. This
+             enables proper printing. Otherwise all text in this font will be
+             missing in print. -->
+        <font embed-url="fonts/adobe-garamond-pro/AGaramondPro-Regular.otf" embedding-mode="full">
+          <font-triplet name="GaramondPro" style="normal" weight="normal"/>
+        </font>
+        <font embed-url="fonts/adobe-garamond-pro/AGaramondPro-Bold.otf" embedding-mode="full">
+          <font-triplet name="GaramondPro" style="normal" weight="bold"/>
+        </font>
+        <font embed-url="fonts/adobe-garamond-pro/AGaramondPro-Italic.otf" embedding-mode="full">
+          <font-triplet name="GaramondPro" style="italic" weight="normal"/>
+        </font>
+        <font embed-url="fonts/adobe-garamond-pro/AGaramondPro-BoldItalic.otf" embedding-mode="full">
+          <font-triplet name="GaramondPro" style="italic" weight="bold"/>
+        </font>
+        
+        <font embed-url="fonts/dejavu/DejaVuSansMono.ttf" embedding-mode="full">
+          <font-triplet name="DejaVuSansMono" style="normal" weight="normal"/>
+        </font>
+        <font embed-url="fonts/dejavu/DejaVuSansMono-Bold.ttf" embedding-mode="full">
+          <font-triplet name="DejaVuSansMono" style="normal" weight="bold"/>
+        </font>
+        <font embed-url="fonts/dejavu/DejaVuSansMono-Oblique.ttf" embedding-mode="full">
+          <font-triplet name="DejaVuSansMono" style="italic" weight="normal"/>
+        </font>
+        <font embed-url="fonts/dejavu/DejaVuSansMono-BoldOblique.ttf" embedding-mode="full">
+          <font-triplet name="DejaVuSansMono" style="italic" weight="bold"/>
+        </font>
+        
+        <font embed-url="fonts/Lato/Lato-Regular.ttf" embedding-mode="full">
+          <font-triplet name="Lato" style="normal" weight="normal"/>
+        </font>
+        <font embed-url="fonts/Lato/Lato-Bold.ttf" embedding-mode="full">
+          <font-triplet name="Lato" style="normal" weight="bold"/>
+        </font>
+        
+        <!-- <auto-detect /> -->
+      </fonts>
+
+      <!-- Do not merge fonts with those from included PDFs! This
+           feature does not work for our fonts since FOP 2.2 -->
+      <merge-fonts>false</merge-fonts>
+    </renderer>
+  </renderers>
+</fop>

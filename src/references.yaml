@@ -1,0 +1,2792 @@
+- id: fowler2012
+  type: webpage
+  author:
+    - family: Fowler
+      given: Martin
+  title: TestPyramid
+  URL: https://martinfowler.com/bliki/TestPyramid.html
+  issued:
+    date-parts:
+      - [2012]
+  accessed:
+    date-parts:
+      - [2017, 5, 23]
+
+- id: fowler2014
+  type: webpage
+  author:
+    - family: Fowler
+      given: Martin
+  title: Microservices - a definition of this new architectural term
+  URL: http://www.martinfowler.com/articles/microservices.html
+  issued:
+    date-parts:
+      - [2014]
+  accessed:
+    date-parts:
+      - [2016, 11, 23]
+
+- id: Bini_2008
+  type: webpage
+  author:
+    - family: Bini
+      given: Ola
+  title: Fractal Programming
+  issued:
+    date-parts:
+      - [2008]
+  URL: https://olabini.com/blog/2008/06/fractal-programming/
+  accessed:
+    date-parts:
+      - [2016, 12, 21]
+
+- id: deutsch1994
+  type: webpage
+  author:
+    - family: Deutsch
+      given: Peter
+  title: The Eight Fallacies of Distributed Computing
+  URL: https://blogs.oracle.com/jag/resource/Fallacies.html
+  issued:
+    date-parts:
+      - [1994]
+  accessed:
+    date-parts:
+      - [2016, 11, 23]
+
+- id: newman2015
+  type: book
+  author:
+    - family: Newman
+      given: Sam
+  issued:
+    date-parts:
+      - [2015]
+  edition: 1st
+  publisher: O'Reilly Media, Inc.
+  title: Building Microservices
+
+- id: conway1968
+  type: article-journal
+  author:
+    - family: Conway
+      given: Melvin E.
+  issued:
+    date-parts:
+      - [1968, 4]
+  container-title: Datamation
+  issue: 4
+  number-of-pages: 4
+  page: 28-31
+  page-first: 28
+  title: How Do Committees Invent?
+  volume: 14
+
+- id: evans2003
+  type: book
+  author:
+    - family: Evans
+      given: Eric
+  issued:
+    date-parts:
+      - [2003]
+  publisher: Addison-Wesley Longman Publishing Co., Inc.
+  publisher-place: Boston, MA, USA
+  title: "Domain-Driven Design: Tacking Complexity In the Heart of Software"
+
+- id: iqmulus_d_1_2_3
+  type: report
+  author:
+    - family: Belényesi
+      given: Márta
+    - family: Kristóf
+      given: Dániel
+  title: IQmulus public project deliverable D1.2.3 - Revised User Requirements
+  issued:
+    date-parts:
+      - [2014]
+
+- id: iqmulus_d_3_2
+  type: report
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Zulkowski
+      given: Marco
+    - family: Plabst
+      given: Stephan
+    - family: Kießlich
+      given: Norman
+  title: IQmulus public project deliverable D3.2 - Control Components - vertical prototype release
+  issued:
+    date-parts:
+      - [2014]
+
+- id: iqmulus_d_2_3_2
+  type: report
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Skytt
+      given: Vibeke
+    - family: Patane
+      given: Giuseppe
+    - family: Kießlich
+      given: Norman
+    - family: Spagnuolo
+      given: Michela
+    - family: Michel
+      given: Frank
+  title: IQmulus public project deliverable D2.3.2 - Architecture design - final version
+  issued:
+    date-parts:
+      - [2015]
+
+- id: iqmulus_d_2_4_2
+  type: report
+  author:
+    - family: Krämer
+      given: Michel
+    - family: Senner
+      given: Ivo
+  title: IQmulus public project deliverable D2.4.2 - Processing DSL Specification - final version
+  issued:
+    date-parts:
+      - [2015]
+
+- id: iqmulus_d_6_5
+  type: report
+  author:
+    - family: Kießlich
+      given: Norman
+    - family: Krämer
+      given: Michel
+    - family: Michel
+      given: Frank
+    - family: Holweg
+      given: Daniel
+    - family: Gierlinger
+      given: Thomas
+  title: IQmulus public project deliverable D6.5 - Scalability Tests - Version 2
+  issued:
+    date-parts:
+      - [2016]
+
+- id: Bass2012
+  type: book
+  author:
+    - family: Bass
+      given: Len
+    - family: Clements
+      given: Paul
+    - family: Kazman
+      given: Rick
+  title: Software Architecture in Practice
+  issued:
+    date-parts:
+      - [2012]
+  edition: 3
+  publisher: Addison-Wesley Professional
+  DOI: 10.1145/2693208.2693252
+
+- id: Khan2012_1
+  type: paper-conference
+  author:
+    - family: Khan
+      given: Zaheer
+    - family: Kiani
+      given: Saad Liaquat
+  title: A Cloud-Based Architecture for Citizen Services in Smart Cities
+  container-title: Proceedings of the 2012 IEEE/ACM 5th International Conference on Utility and Cloud Computing UCC 2012
+  issued:
+    date-parts:
+      - [2012]
+  ISBN: 978-0-7695-4862-3
+  page: 315-320
+  page-first: 315
+  number-of-pages: 6
+  DOI: 10.1109/UCC.2012.43
+  publisher: IEEE Computer Society
+  publisher-place: Washington, DC, USA
+
+- id: Khan2013_1
+  type: paper-conference
+  author:
+    - family: "Khan"
+      given: "Zaheer"
+    - family: "Anjum"
+      given: "Ashiq"
+    - family: "Kiani"
+      given: "Saad Liaquat"
+  title: Cloud Based Big Data Analytics for Smart Future Cities
+  issued:
+    date-parts:
+      - [2013]
+  container-title: Proceedings of the 2013 IEEE/ACM 6th International Conference on Utility and Cloud Computing UCC 2013
+  DOI: 10.1109/UCC.2013.77
+  ISBN: 978-0-7695-5152-4
+  number-of-pages: 6
+  page: 381-386
+  page-first: 381
+  publisher: IEEE Computer Society
+  publisher-place: Washington, DC, USA
+
+- id: bpmn2013
+  type: webpage
+  author:
+    - literal: OMG
+  title: Business Process Model and Notation (BPMN) - Specification v2.0.2
+  issued:
+      date-parts:
+        - [2013]
+  URL: http://www.omg.org/spec/BPMN/2.0.2/
+  accessed:
+    date-parts:
+      - [2017, 3, 8]
+
+- id: wsbpel2007
+  type: webpage
+  author:
+    - literal: OASIS
+  title: Web Services Business Process Execution Language Version 2.0
+  issued:
+      date-parts:
+        - [2007]
+  URL: http://docs.oasis-open.org/wsbpel/2.0/OS/wsbpel-v2.0-OS.html
+  accessed:
+    date-parts:
+      - [2017, 3, 8]
+
+- id: wsdl2001
+  type: webpage
+  author:
+    - literal: W3C
+  title: Web Services Description Language (WSDL) 1.1
+  issued:
+      date-parts:
+        - [2001]
+  URL: https://www.w3.org/TR/2001/NOTE-wsdl-20010315
+  accessed:
+    date-parts:
+      - [2017, 3, 8]
+
+- id: ccm2006
+  type: webpage
+  author:
+    - literal: OMG
+  title: CORBA Component Model (CCM) - Specification v4.0
+  issued:
+      date-parts:
+        - [2006]
+  URL: http://www.omg.org/spec/CCM/4.0 
+  accessed:
+    date-parts:
+      - [2017, 4, 21]
+
+- id: aalst2005
+  type: article-journal
+  author:
+      - family: Aalst
+        given: Wil M. P.
+        non-dropping-particle: van der
+      - family: Hofstede
+        given: Arthur H. M.
+        non-dropping-particle: ter
+  title: "YAWL: Yet Another Workflow Language"
+  issued:
+      date-parts:
+        - [2005, 6]
+  container-title: Information Systems
+  issue: 4
+  volume: 30
+  number: 4
+  ISSN: 0306-4379
+  page: 245-275
+  number-of-pages: 31
+  page-first: 245
+  DOI: 10.1016/j.is.2004.02.002
+  publisher: Elsevier Science Ltd.
+  publisher-place: Oxford, UK
+
+- id: Amstutz2016
+  type: report
+  author:
+    - family: Amstutz
+      given: Peter
+    - family: Crusoe
+      given: Michael R.
+    - family: Tijanić
+      given: Nebojša
+    - family: Chapman
+      given: Brad
+    - family: Chilton
+      given: John
+    - family: Heuer
+      given: Michael
+    - family: Kartashov
+      given: Andrey
+    - family: Leehr
+      given: Dan
+    - family: Ménager
+      given: Hervé
+    - family: Nedeljkovich
+      given: Maya
+    - family: Scales
+      given: Matt
+    - family: Soiland-Reyes
+      given: Stian
+    - family: Stojanovic
+      given: Luka
+  title: Common Workflow Language, v1.0
+  issued:
+    date-parts:
+      - [2005, 7]
+  DOI: 10.6084/m9.figshare.3115156.v2
+
+- id: amazon2016
+  type: webpage
+  author:
+    - literal: Amazon
+  title: Amazon States Language
+  issued:
+      date-parts:
+        - [2016]
+  URL: https://states-language.net/spec.html
+  accessed:
+    date-parts:
+      - [2017, 3, 8]
+
+- id: broadinstitute2017
+  type: webpage
+  author:
+    - literal: Broad Institute
+  title: Workflow Description Language (WDL)
+  issued:
+      date-parts:
+        - [2017]
+  URL: https://software.broadinstitute.org/wdl/
+  accessed:
+    date-parts:
+      - [2017, 3, 8]
+
+- id: DeNicola2009
+  type: article-journal
+  author:
+    - family: Nicola
+      given: Antonio
+      non-dropping-particle: De
+    - family: Missikoff
+      given: Michele
+    - family: Navigli
+      given: Roberto
+  issued:
+    date-parts:
+      - [2009]
+  container-title: Information Systems
+  DOI: 10.1016/j.is.2008.07.002
+  ISSN: 0306-4379
+  issue: 2
+  number-of-pages: 18
+  page: 258-275
+  page-first: 258
+  title: A software engineering approach to ontology building
+  volume: 34
+
+- id: DeNicola2016
+  type: article-journal
+  author:
+    - family: Nicola
+      given: Antonio
+      non-dropping-particle: De
+    - family: Missikoff
+      given: Michele
+  title: A Lightweight Methodology for Rapid Ontology Engineering
+  container-title: Communications of the ACM
+  volume: 59
+  issue: 3
+  issued:
+    date-parts:
+      - [2016]
+  ISSN: 0001-0782
+  page: 79-86
+  page-first: 79
+  number-of-pages: 8
+  DOI: 10.1145/2818359
+  publisher: ACM
+  publisher-place: New York, NY, USA
+
+- id: gradle2017
+  type: webpage
+  author:
+    - literal: Gradle Inc.
+  title: Gradle Build Tool
+  issued:
+      date-parts:
+        - [2017]
+  URL: https://gradle.org/
+  accessed:
+    date-parts:
+      - [2017, 3, 9]
+
+- id: Juric2010
+  type: webpage
+  author:
+    - family: Juric
+      given: Branko
+  title: The 'Scala is too Complex' Conspiracy
+  issued:
+      date-parts:
+        - [2010]
+  URL: https://warpedjavaguy.wordpress.com/2010/08/02/the-scala-is-too-complex-conspiracy-1/
+  accessed:
+    date-parts:
+      - [2017, 3, 9]
+
+- id: Ulrich2012
+  type: webpage
+  author:
+    - family: Ulrich
+      given: Harry
+  title: The Pros & Cons of Scala
+  issued:
+      date-parts:
+        - [2011]
+  URL: http://blog.celerity.com/pros-cons-scala
+  accessed:
+    date-parts:
+      - [2017, 3, 9]
+
+- id: pegjs2017
+  type: webpage
+  author:
+    - family: Majda
+      given: David
+  title: PEG.js - Parser Generator for JavaScript
+  issued:
+      date-parts:
+        - [2016]
+  URL: https://pegjs.org/
+  accessed:
+    date-parts:
+      - [2017, 3, 10]
+
+- id: angularjs2017
+  type: webpage
+  author:
+    - literal: Google
+  title: AngularJS - Superheroic JavaScript MVW Framework
+  issued:
+      date-parts:
+        - [2017]
+  URL: https://angularjs.org/
+  accessed:
+    date-parts:
+      - [2017, 3, 10]
+
+- id: rfc7231
+  type: report
+  editor:
+    - family: Fielding
+      given: Roy Thomas
+    - family: Reschke
+      given: Julian F.
+  title: "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content, RFC 7231"
+  DOI: 10.17487/RFC7231
+  issued:
+    date-parts:
+      - [2014, 6]
+
+- id: Fielding2000
+  type: thesis
+  author:
+    - family: Fielding
+      given: Roy Thomas
+  title: Architectural Styles and the Design of Network-based Software Architectures
+  issued:
+    date-parts:
+      - [2010]
+  publisher: Doctoral dissertation, University of California
+  publisher-place: Irvine
+
+- id: Burke2013
+  type: book
+  author:
+    - family: Burke
+      given: Bill
+  title: RESTful Java with JAX-RS 2.0
+  issued:
+    date-parts:
+      - [2013, 11, 22]
+  publisher: O'Reilly
+
+- id: Sheth1999
+  type: article-journal
+  author:
+    - family: Sheth
+      given: Amit P.
+    - family: van der Aalst
+      given: Wil M. P.
+    - family: Arpinar
+      given: Ismailcem B.
+  title: Processes Driving the Networked Economy
+  container-title: IEEE Concurrency
+  issued:
+    date-parts:
+      - [1999, 7]
+  volume: 7
+  issue: 3
+  ISSN: 1092-3063
+  page: 18-31
+  page-first: 18
+  number-of-pages: 14
+  DOI: 10.1109/4434.788776
+  publisher: IEEE Educational Activities Department
+  publisher-place: Piscataway, NJ, USA
+
+- id: Manolescu2000
+  author:
+    - family: Manolescu
+      given: Dragos
+  title: "Micro-Workflow: A Workflow Architecture Supporting Compositional Object-Oriented Software Development"
+  issued:
+    date-parts:
+      - [2000]
+  publisher: Doctoral dissertation, University of Illinois
+  publisher-place: Champaign, IL, USA
+
+- id: Aalst2003
+  type: article-journal
+  author:
+    - family: van der Aalst
+      given: Wil M. P.
+    - family: ter Hofstede
+      given: Arthur H. M.
+    - family: Kiepuszewski
+      given: B.
+    - family: Barros
+      given: A. P.
+  title: Workflow Patterns
+  container-title: Distributed and Parallel Databases
+  volume: 14
+  issue: 3
+  page: 5-51
+  page-first: 5
+  number-of-pages: 47
+  issued:
+    date-parts:
+      - [2003, 7]
+  DOI: 10.1023/A:1022883727209
+  publisher: Kluwer Academic Publishers
+  publisher-address: Hingham, MA, USA
+
+- id: Russell2006
+  type: report
+  author:
+    - family: Russell
+      given: Nick
+    - family: ter Hofstede
+      given: Arthur H. M.
+    - family: van der Aalst
+      given: Wil M. P.
+    - family: Mulyar
+      given: N.
+  title: "Workflow Control-Flow Patterns: A Revised View"
+  issued:
+    date-parts:
+      - [2006]
+  collection-title: BPM-06-22
+  publisher: Technical report, BPM Center
+
+- id: Russell2004
+  type: report
+  author:
+    - family: Russell
+      given: Nick
+    - family: ter Hofstede
+      given: Arthur H. M.
+    - family: Edmond
+      given: D.
+    - family: van der Aalst
+      given: Wil M. P.
+  title: Workflow Resource Patterns
+  issued:
+    date-parts:
+      - [2004]
+  collection-title: BETA Working Paper Series, WP 127
+  publisher: Technical report, Eindhoven University of Technology
+
+- id: Russell2004a
+  type: report
+  author:
+    - family: Russell
+      given: Nick
+    - family: ter Hofstede
+      given: Arthur H. M.
+    - family: Edmond
+      given: D.
+    - family: van der Aalst
+      given: Wil M. P.
+  title: Workflow Data Patterns
+  issued:
+    date-parts:
+      - [2004]
+  collection-title: QUT Technical report, FIT-TR-2004-01
+  publisher: Technical report, Queensland University of Technology
+  publisher-place: Brisbane
+
+- id: Russell2016
+  type: book
+  author:
+    - family: Russell
+      given: Nick
+    - family: van der Aalst
+      given: Wil M. P.
+    - family: ter Hofstede
+      given: Arthur H. M.
+  title: "Workflow Patterns: The Definitive Guide"
+  issued:
+    date-parts:
+      - [2016]
+  publisher: MIT Press
+
+- id: drools2017
+  type: webpage
+  author:
+    - literal: JBoss Community
+  title: Drools - Business Rules Management System (BRMS)
+  issued:
+      date-parts:
+        - [2017]
+  URL: http://drools.org/
+  accessed:
+    date-parts:
+      - [2017, 4, 6]
+
+- id: vertx2017
+  type: webpage
+  author:
+    - literal: Eclipse
+  title: Vert.x - A tool-kit for building reactive applications on the JVM
+  issued:
+      date-parts:
+        - [2017]
+  URL: http://vertx.io/
+  accessed:
+    date-parts:
+      - [2017, 4, 10]
+
+- id: reactivemanifesto2014
+  type: webpage
+  author:
+    - family: Bonér
+      given: Jonas
+    - family: Farley
+      given: Dave
+    - family: Kuhn
+      given: Roland
+    - family: Thompson
+      given: Martin
+  title: The Reactive Manifesto v2.0
+  issued:
+      date-parts:
+        - [2014]
+  URL: http://www.reactivemanifesto.org/
+  accessed:
+    date-parts:
+      - [2017, 4, 10]
+
+- id: Ludaescher2009
+  type: paper-conference
+  author:
+    - family: Ludäscher
+      given: Bertram
+    - family: Weske
+      given: Mathias
+    - family: McPhillips
+      given: Timothy
+    - family: Bowers
+      given: Shawn
+  editor:
+    - family: Dayal
+      given: Umeshwar
+    - family: Eder
+      given: Johann
+    - family: Koehler
+      given: Jana
+    - family: Reijers
+      given: Hajo A.
+  title: "Scientific Workflows: Business as Usual?"
+  collection-title: Proceedings of the 7th International Conference on Business Process Management (BPM) 2009, Ulm, Germany
+  issued:
+    date-parts:
+      - [2009]
+  publisher: Springer
+  publisher-place: Berlin, Heidelberg
+  page: 31-47
+  ISBN: 978-3-642-03848-8
+  DOI: 10.1007/978-3-642-03848-8_4
+
+- id: robbins2012
+  type: article-journal
+  author:
+    - family: Robbins
+      given: Jesse
+    - family: Krishnan
+      given: Kripa
+    - family: Allspaw
+      given: John
+    - family: Limoncelli
+      given: Tom
+  title: "Resilience Engineering: Learning to Embrace Failure"
+  container-title: Communications of the ACM
+  issued:
+    date-parts:
+      - [2012, 11]
+  volume: 55
+  issue: 11
+  ISSN: 0001-0782
+  page: 40-47
+  number-of-pages: 8
+  #DOI: 10.1145/2366316.2366331
+  publisher: ACM
+  publisher-place: New York, NY, USA
+
+- id: Nygard2007
+  type: book
+  author:
+    - family: Nygard
+      given: Michael
+  title: "Release It!: Design and Deploy Production-Ready Software"
+  issued:
+    date-parts:
+      - [2007]
+  ISBN: 0978739213
+  publisher: Pragmatic Bookshelf
+
+- id: Wolstencroft2013
+  type: article-journal
+  author:
+    - family: Wolstencroft
+      given: Katherine
+    - family: Haines
+      given: Robert
+    - family: Fellows
+      given: Donal
+    - family: Williams
+      given: Alan
+    - family: Withers
+      given: David
+    - family: Owen
+      given: Stuart
+    - family: Soiland-Reyes
+      given: Stian
+    - family: Dunlop
+      given: Ian
+    - family: Nenadic
+      given: Aleksandra
+    - family: Fisher
+      given: Paul
+    - family: Bhagat
+      given: Jiten
+    - family: Belhajjame
+      given: Khalid
+    - family: Bacall
+      given: Finn
+    - family: Hardisty
+      given: Alex
+    - family: Nieva de la Hidalga
+      given: Abraham
+    - family: Balcazar Vargas
+      given: Maria P.
+    - family: Sufi
+      given: Shoaib
+    - family: Goble
+      given: Carole
+  title: "The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud"
+  container-title: Nucleic Acids Research
+  volume: 41
+  issue: W1
+  page: W557-W561
+  page-first: W557
+  number-of-pages: 5
+  issued:
+    date-parts:
+      - [2013]
+  DOI: 10.1093/nar/gkt328
+
+- id: Thain2005
+  type: article-journal
+  author:
+    - family: Thain
+      given: Douglas
+    - family: Tannenbaum
+      given: Todd
+    - family: Livny
+      given: Miron
+  title: "Distributed computing in practice: the Condor experience"
+  container-title: "Concurrency - Practice and Experience"
+  volume: "17"
+  issue: "2-4"
+  page: "323-356"
+  page-first: 323
+  number-of-pages: 34
+  issued:
+    date-parts:
+      - [2005]
+
+- id: Topcuouglu2002
+  type: article-journal
+  author:
+    - family: Topcuouglu
+      given: Haluk
+    - family: Hariri
+      given: Salim
+    - family: Wu
+      given: Min-you
+  title: Performance-Effective and Low-Complexity Task Scheduling for Heterogeneous Computing
+  container-title: IEEE Transactions on Parallel and Distributed Systems
+  volume: 13
+  issue: 3
+  issued:
+    date-parts:
+      - [2002, 3]
+  page: 260-274
+  page-first: 260
+  number-of-pages: 15
+  DOI: 10.1109/71.993206
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+
+- id: Ludaescher2006
+  type: article-journal
+  author:
+    - family: Ludäscher
+      given: Bertram
+    - family: Altintas
+      given: Ilkay
+    - family: Berkley
+      given: Chad
+    - family: Higgins
+      given: Dan
+    - family: Jaeger
+      given: Efrat
+    - family: Jones
+      given: Matthew
+    - family: Lee
+      given: Edward A.
+    - family: Tao
+      given: Jing
+    - family: Zhao
+      given: Yang
+  title: "Scientific Workflow Management and the Kepler System"
+  container-title: "Concurrency and Computation: Practice & Experience"
+  issued:
+    date-parts:
+      - [2006, 8]
+  volume: 18
+  issue: 10
+  page: 1039-1065
+  page-first: 1039
+  number-of-pages: 27
+  DOI: 10.1002/cpe.v18:10
+  publisher: John Wiley and Sons Ltd.
+  publisher-place: Chichester, UK
+
+- id: Jaeger2005
+  type: paper-conference
+  author:
+    - family: Jaeger
+      given: Efrat
+    - family: Altintas
+      given: Ilkay
+    - family: Zhang
+      given: Jianting
+    - family: Ludäscher
+      given: Bertram
+    - family: Pennington
+      given: Deana
+    - family: Michener
+      given: William
+  title: A Scientific Workflow Approach to Distributed Geospatial Data Processing Using Web Services
+  container-title: Proceedings of the 17th International Conference on Scientific and Statistical Database Management
+  issued:
+    date-parts:
+      - [2005]
+  ISBN: 1-88888-111-X
+  page: 87-90
+  page-first: 87
+  number-of-pages: 4
+  publisher: Lawrence Berkeley Laboratory
+  publisher-place: Berkeley, CA, US
+
+- id: Yu2005
+  type: article-journal
+  author:
+    - family: Yu
+      given: Jia
+    - family: Buyya
+      given: Rajkumar
+  title: A Taxonomy of Workflow Management Systems for Grid Computing
+  container-title: Journal of Grid Computing
+  issued:
+    date-parts:
+      - [2005]
+  volume: 3
+  issue: 3
+  page: 171-200
+  page-first: 171
+  number-of-pages: 30
+  DOI: 10.1007/s10723-005-9010-8
+
+- id: Deelman2009
+  type: article-journal
+  author:
+    - family: Deelman
+      given: Ewa
+    - family: Gannon
+      given: Dennis
+    - family: Shields
+      given: Matthew
+    - family: Taylor
+      given: Ian
+  title: "Workflows and e-Science: An overview of workflow system features and capabilities"
+  container-title: Future Generation Computer Systems
+  volume: 25
+  issue: 5
+  page: 528-540
+  page-first: 528
+  number-of-pages: 13
+  issued:
+    date-parts:
+      - [2009]
+  DOI: 10.1016/j.future.2008.06.012
+
+- id: Deelman2013
+  type: article-journal
+  author:
+    - family: Deelman
+      given: Ewa
+    - family: Juve
+      given: Gideon
+    - family: Malawski
+      given: Maciej
+    - family: Nabrzyski
+      given: Jarek
+  title: "Hosted Science: Managing Computational Workflows in the Cloud"
+  container-title: Parallel Processing Letters
+  volume: 23
+  issue: 2
+  page: 1340004
+  issued:
+    date-parts:
+      - [2013]
+  DOI: 10.1142/S0129626413400045
+
+- id: Balis2014
+  type: paper-conference
+  author:
+    - family: Balis
+      given: Bartosz
+  title: Increasing Scientific Workflow Programming Productivity with HyperFlow
+  container-title: Proceedings of the 9th Workshop on Workflows in Support of Large-Scale Science WORKS '14
+  issued:
+    date-parts:
+      - [2014]
+  ISBN: 978-1-4799-7067-4
+  page: 59-69
+  page-first: 59
+  number-of-pages: 11
+  DOI: 10.1109/WORKS.2014.10
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+
+- id: Malawski2011
+  type: article-journal
+  author:
+    - family: Malawski
+      given: Maciej
+    - family: Meizner
+      given: Jan
+    - family: Bubak
+      given: Marian
+    - family: Gepner
+      given: Paweł
+  title: Component Approach to Computational Applications on Clouds
+  container-title: Procedia Computer Science
+  volume: 4
+  page: 432-441
+  page-first: 432
+  number-of-pages: 10
+  issued:
+    date-parts:
+      - [2011]
+  DOI: 10.1016/j.procs.2011.04.045
+
+- id: Malawski2016
+  type: paper-conference
+  author:
+    - family: Malawski
+      given: Maciej
+  title: "Towards Serverless Execution of Scientific Workflows - HyperFlow Case Study"
+  container-title: Proceedings of the 11th Workshop on Workflows in Support of Large-Scale Science
+  page: 25-33
+  issued:
+    date-parts:
+      - [2016]
+
+- id: Jacob2009
+  type: article-journal
+  author:
+    - family: Jacob
+      given: Joseph C.
+    - family: Katz
+      given: Daniel S.
+    - family: Berriman
+      given: G. Bruce
+    - family: Good
+      given: John C.
+    - family: Laity
+      given: Anastasia C.
+    - family: Deelman
+      given: Ewa
+    - family: Kesselman
+      given: Carl
+    - family: Singh
+      given: Gurmeet
+    - family: Su
+      given: Mei&Hui
+    - family: Prince
+      given: Thomas A.
+    - family: Williams
+      given: Roy
+  title: "Montage: a Grid Portal and Software Toolkit for Science-Grade Astronomical Image Mosaicking"
+  issued:
+    date-parts:
+      - [2009, 7]
+  container-title: International Journal of Computational Science and Engineering
+  DOI: 10.1504/IJCSE.2009.026999
+  volume: 4
+  issue: 2
+  page: 73-87
+  number-of-pages: 15
+  page-first: 73
+  publisher: Inderscience Publishers
+  publisher-place: Geneva, Switzerland
+
+- id: Cleary1998
+  type: paper-conference
+  author:
+    - family: Cleary
+      given: A.
+    - family: Kohn
+      given: S.
+    - family: Smith
+      given: S.
+    - family: Smolinski
+      given: B.
+  title: Language Interoperability Mechanisms for High-Performance Scientific Applications
+  container-title: Proceedings of the SIAM Workshop on Object-Oriented Methods for Interoperable Scientific and Engineering Computing
+  issued:
+    date-parts:
+      - [1998, 10]
+  page: 30-39
+
+- id: Armstrong2006
+  type: article-journal
+  author:
+  - family: Armstrong
+    given: Rob
+  - family: Kumfert
+    given: Gary
+  - family: McInnes
+    given: Lois Curfman
+  - family: Parker
+    given: Steven
+  - family: Allan
+    given: Ben
+  - family: Sottile
+    given: Matt
+  - family: Epperly
+    given: Thomas
+  - family: Dahlgren
+    given: Tamara
+  title: The CCA component model for high-performance scientific computing
+  issued:
+    date-parts:
+    - [2006]
+  container-title: "Concurrency and Computation: Practice and Experience"
+  DOI: 10.1002/cpe.911
+  ISSN: 1532-0634
+  volume: '18'
+  issue: 2
+  page: 215-229
+  page-first: 215
+  number-of-pages: 15
+  publisher: John Wiley & Sons, Ltd.
+
+- id: Baude2009
+  type: article-journal
+  author:
+  - family: Baude
+    given: Francoise
+  - family: Caromel
+    given: Denis
+  - family: Dalmasso
+    given: Cédric
+  - family: Danelutto
+    given: Marco
+  - family: Getov
+    given: Vladimir
+  - family: Henrio
+    given: Ludovic
+  - family: Pérez
+    given: Christian
+  title: "GCM: a grid extension to Fractal for autonomous distributed components"
+  issued:
+    date-parts:
+    - [2009]
+  container-title: Annals of Telecommunications
+  DOI: 10.1007/s12243-008-0068-8
+  ISSN: 1958-9395
+  volume: 64
+  issue: 1
+  page: 5-24
+  page-first: 5
+  number-of-pages: 20
+
+- id: Peltz2003
+  type: article-journal
+  author:
+  - family: Peltz
+    given: C.
+  title: Web services orchestration and choreography
+  issued:
+    date-parts:
+    - [2003, 10]
+  container-title: Computer
+  DOI: 10.1109/MC.2003.1236471
+  ISSN: 0018-9162
+  volume: 36
+  issue: 10
+  page: 46-52
+  page-first: 46
+  number-of-pages: 7
+
+- id: Barros2006
+  type: paper-conference
+  author:
+  - family: Barros
+    given: Alistair
+  - family: Dumas
+    given: Marlon
+  - family: Oaks
+    given: Phillipa
+  editor:
+  - family: Bussler
+    given: Christoph J.
+  - family: Haller
+    given: Armin
+  title: "Standards for Web Service Choreography and Orchestration: Status and Perspectives"
+  issued:
+    date-parts:
+    - [2006]
+  container-title: "Business Process Management Workshops: BPM 2005 International Workshops, BPI, BPD, ENEI, BPRM, WSCOBPM, BPS. Revised Selected Papers"
+  DOI: 10.1007/11678564_7
+  ISBN: 978-3-540-32596-3
+  page: 61-74
+  page-first: 61
+  number-of-pages: 14
+  publisher: Springer Berlin Heidelberg
+  publisher-place: Berlin, Heidelberg
+
+- id: Patil2004
+  type: paper-conference
+  author:
+  - family: Patil
+    given: Abhijit A.
+  - family: Oundhakar
+    given: Swapna A.
+  - family: Sheth
+    given: Amit P.
+  - family: Verma
+    given: Kunal
+  title: METEOR-S Web Service Annotation Framework
+  issued:
+    date-parts:
+    - [2004]
+  container-title: Proceedings of the 13th International Conference on World Wide Web
+  DOI: 10.1145/988672.988747
+  ISBN: 1-58113-844-X
+  page: 553-562
+  page-first: 553
+  number-of-pages: 10
+  publisher: ACM
+  publisher-place: New York, NY, USA
+
+- id: wps2015
+  type: webpage
+  author:
+    - literal: OGC
+  title: WPS 2.0 Interface Standard
+  issued:
+      date-parts:
+        - [2015]
+  URL: http://docs.opengeospatial.org/is/14-065/14-065.html
+  accessed:
+    date-parts:
+      - [2017, 4, 21]
+
+- id: Stollberg2007
+  type: chapter
+  author:
+  - family: Stollberg
+    given: Beate
+  - family: Zipf
+    given: Alexander
+  editor:
+  - family: Ware
+    given: J. Mark
+  - family: Taylor
+    given: George E.
+  title: OGC Web Processing Service Interface for Web Service Orchestration Aggregating Geo-processing Services in a Bomb Threat Scenario
+  issued:
+    date-parts:
+    - [2007]
+  container-title: 'Proceedings of the 7th International Symposium on Web and Wireless Geographical Information Systems W2GIS 2007'
+  DOI: 10.1007/978-3-540-76925-5_18
+  ISBN: 978-3-540-76925-5
+  page: 239-251
+  page-first: 239
+  number-of-pages: 13
+  publisher: Springer
+  publisher-place: Berlin, Heidelberg
+
+- id: Lanig2008
+  type: chapter
+  author:
+  - family: Lanig
+    given: Sandra
+  - family: Schilling
+    given: Arne
+  - family: Stollberg
+    given: Beate
+  - family: Zipf
+    given: Alexander
+  editor:
+  - family: Gervasi
+    given: Osvaldo
+  - family: Murgante
+    given: Beniamino
+  - family: Laganà
+    given: Antonio
+  - family: Taniar
+    given: David
+  - family: Mun
+    given: Youngsong
+  - family: Gavrilova
+    given: Marina L.
+  title: Towards Standards-Based Processing of Digital Elevation Models for Grid Computing through Web Processing Service (WPS)
+  issued:
+    date-parts:
+    - [2008]
+  container-title: 'Proceedings of the 2008 International Conference on Computational Science and Its Applications ICCSA'
+  DOI: 10.1007/978-3-540-69848-7_17
+  ISBN: 978-3-540-69848-7
+  page: 191-203
+  page-first: 191
+  number-of-pages: 13
+  publisher: Springer
+  publisher-place: Berlin, Heidelberg
+
+- id: Rautenbach2013
+  type: article-journal
+  author:
+  - family: Rautenbach
+    given: Victoria
+  - family: Coetzee
+    given: Serena
+  - family: Iwaniak
+    given: Adam
+  issued:
+    date-parts:
+    - [2013]
+  title: Orchestrating OGC web services to produce thematic maps in a spatial information infrastructure
+  container-title: Computers, Environment and Urban Systems
+  volume: 37
+  page: 107-120
+  page-first: 107
+  number-of-pages: 14
+
+- id: FriisChristensen2009
+  type: article-journal
+  author:
+  - family: Friis-Christensen
+    given: Anders
+  - family: Lucchi
+    given: Roberto
+  - family: Lutz
+    given: Michael
+  - family: Ostländer
+    given: Nicole
+  issued:
+    date-parts:
+    - [2009]
+  title: Service chaining architectures for applications implementing distributed geographic information processing
+  container-title: International Journal of Geographical Information Science
+  DOI: 10.1080/13658810802665570
+  volume: 23
+  issue: 5
+  page: 561-580
+  page-first: 561
+  number-of-pages: 20
+
+- id: deJesus2012
+  type: article-journal
+  author:
+  - family: Jesus
+    given: J.
+    non-dropping-particle: de
+  - family: Walker
+    given: P.
+  - family: Grant
+    given: M.
+  - family: Groom
+    given: S.
+  issued:
+    date-parts:
+    - [2012]
+  title: "WPS orchestration using the Taverna workbench: The eScience approach"
+  container-title: "Computers & Geosciences"
+  DOI: http://doi.org/10.1016/j.cageo.2011.11.011
+  volume: 47
+  ISSN: 0098-3004
+  page: 75-86
+  page-first: 75
+  number-of-pages: 12
+
+- id: Weigand2008
+  type: paper-conference
+  author:
+    - family: Weigand
+      given: Hans
+    - family: van den Heuvel
+      given: Willem-Jan
+    - family: Hiel
+      given: Marcel
+  title: Rule-based service composition and service-oriented business rule management
+  container-title: Interdisciplinary Workshop Regulations Modelling and Deployment
+  issued:
+    date-parts:
+      - [2008]
+
+- id: Charfi2004
+  type: paper-conference
+  author:
+  - family: Charfi
+    given: Anis
+  - family: Mezini
+    given: Mira
+  issued:
+    date-parts:
+    - [2004]
+  title: "Hybrid Web Service Composition: Business Processes Meet Business Rules"
+  container-title: Proceedings of the 2nd International Conference on Service Oriented Computing
+  DOI: 10.1145/1035167.1035173
+  ISBN: 1-58113-871-7
+  page: 30-38
+  page-first: 30
+  number-of-pages: 9
+  publisher: ACM
+  publisher-place: New York, NY, USA
+
+- id: Lutz2007
+  type: chapter
+  author:
+  - family: Lutz
+    given: Michael
+  - family: Lucchi
+    given: Roberto
+  - family: Friis-Christensen
+    given: Anders
+  - family: Ostländer
+    given: Nicole
+  editor:
+  - family: Fonseca
+    given: Frederico
+  - family: Rodríguez
+    given: M. Andrea
+  - family: Levashkin
+    given: Sergei
+  issued:
+    date-parts:
+    - [2007]
+  title: A Rule-Based Description Framework for the Composition of Geographic Information Services
+  container-title: "Proceedings of the 2007 Second International Conference on GeoSpatial Semantics GeoS"
+  DOI: 10.1007/978-3-540-76876-0_8
+  ISBN: 978-3-540-76876-0
+  page: 114-127
+  page-first: 114
+  number-of-pages: 14
+  publisher: Springer
+  publisher-place: Berlin, Heidelberg
+
+- id: Pirahesh1992
+  type: paper-conference
+  author:
+  - family: Pirahesh
+    given: Hamid
+  - family: Hellerstein
+    given: Joseph M.
+  - family: Hasan
+    given: Waqar
+  title: Extensible/Rule Based Query Rewrite Optimization in Starburst
+  issued:
+    date-parts:
+    - [1992]
+  container-title: Proceedings of the ACM SIGMOD International Conference on Management of Data
+  DOI: 10.1145/130283.130294
+  ISBN: 0-89791-521-6
+  page: 39-48
+  page-first: 39
+  number-of-pages: 10
+  publisher: ACM
+  publisher-place: San Diego, California, USA
+
+- id: Chaudhuri1998
+  type: paper-conference
+  author:
+  - family: Chaudhuri
+    given: Surajit
+  title: An Overview of Query Optimization in Relational Systems
+  issued:
+    date-parts:
+    - [1998]
+  container-title: Proceedings of the 17th ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems
+  DOI: 10.1145/275487.275492
+  ISBN: 0-89791-996-3
+  page: 34-43
+  page-first: 34
+  number-of-pages: 10
+  publisher: ACM
+  publisher-place: Seattle, Washington, USA
+
+- id: Roy2009
+  type: chapter
+  author:
+  - family: Roy
+    given: Prasan
+  - family: Sudarshan
+    given: S.
+  editor:
+  - family: Liu
+    given: Ling
+  - family: Özsu
+    given: M. Tamer
+  title: Multi-Query Optimization
+  issued:
+    date-parts:
+    - [2009]
+  container-title: Encyclopedia of Database Systems
+  DOI: 10.1007/978-0-387-39940-9_239
+  ISBN: 978-0-387-39940-9
+  page: 1849-1852
+  page-first: 1849
+  number-of-pages: 4
+  publisher: Springer US
+  publisher-place: Boston, MA
+
+- id: Hong2009
+  type: paper-conference
+  author:
+  - family: Hong
+    given: Mingsheng
+  - family: Riedewald
+    given: Mirek
+  - family: Koch
+    given: Christoph
+  - family: Gehrke
+    given: Johannes
+  - family: Demers
+    given: Alan
+  title: Rule-based Multi-query Optimization
+  issued:
+    date-parts:
+    - [2009]
+  container-title: "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology"
+  DOI: 10.1145/1516360.1516376
+  ISBN: 978-1-60558-422-5
+  page: 120-131
+  page-first: 120
+  number-of-pages: 12
+  publisher: ACM
+
+- id: Warshaw1999
+  type: paper-conference
+  author:
+  - family: Warshaw
+    given: Lane B.
+  - family: Miranker
+    given: Daniel P.
+  title: Rule-based Query Optimization, Revisited
+  issued:
+    date-parts:
+    - [1999]
+  container-title: Proceedings of the 8th International Conference on Information and Knowledge Management
+  DOI: 10.1145/319950.320012
+  ISBN: 1-58113-146-1
+  page: 267-275
+  page-first: 267
+  number-of-pages: 9
+  publisher: ACM
+
+- id: Ahmed2006
+  type: paper-conference
+  author:
+  - family: Ahmed
+    given: Rafi
+  - family: Lee
+    given: Allison
+  - family: Witkowski
+    given: Andrew
+  - family: Das
+    given: Dinesh
+  - family: Su
+    given: Hong
+  - family: Zait
+    given: Mohamed
+  - family: Cruanes
+    given: Thierry
+  title: Cost-based Query Transformation in Oracle
+  issued:
+    date-parts:
+    - [2006]
+  container-title: Proceedings of the 32nd International Conference on Very Large Data Bases
+  page: 1026-1036
+  page-first: 1026
+  number-of-pages: 11
+  publisher: VLDB Endowment
+  publisher-place: Seoul, Korea
+
+- id: Bondi2000
+  type: paper-conference
+  author:
+  - family: Bondi
+    given: André B.
+  title: Characteristics of Scalability and Their Impact on Performance
+  issued:
+    date-parts:
+    - [2000]
+  container-title: Proceedings of the 2nd International Workshop on Software and Performance
+  DOI: 10.1145/350391.350432
+  ISBN: 1-58113-195-X
+  page: 195-203
+  page-first: 195
+  number-of-pages: 9
+  publisher: ACM
+
+- id: Herbst2013
+  type: paper-conference
+  author:
+  - family: Herbst
+    given: Nikolas Roman
+  - family: Kounev
+    given: Samuel
+  - family: Reussner
+    given: Ralf
+  title: "Elasticity in Cloud Computing: What It Is, and What It Is Not"
+  issued:
+    date-parts:
+    - [2013]
+  container-title: Proceedings of the 10th International Conference on Autonomic Computing ICAC
+  ISBN: 978-1-931971-02-7
+  page: 23-27
+  page-first: 23
+  number-of-pages: 5
+  publisher: USENIX
+  publisher-place: San Jose, CA
+
+- id: Apfelbacher2003
+  type: webpage
+  author:
+    - family: Apfelbacher
+      given: Rémy
+    - family: Rozinat
+      given: Anne
+  title: "Fundamental Modeling Concepts (FMC) Notation Reference"
+  issued:
+    date-parts:
+      - [2003]
+  URL: http://www.fmc-modeling.org/download/notation_reference/FMC-Notation_Reference.pdf
+  accessed:
+    date-parts:
+      - [2017, 4, 29]
+
+- id: Loukides2012
+  type: book
+  title: "What is DevOps? - Infrastructure as Code"
+  author:
+    - family: Loukides
+      given: Mike
+  publisher: "O'Reilly Media"
+  issued:
+    date-parts:
+      - [2012, 6]
+  ISBN: 978-1-4493-3910-4
+
+- id: Humble2010
+  type: book
+  author:
+    - family: Humble
+      given: Jez
+    - family: Farley
+      given: David
+  issued:
+    date-parts:
+      - [2010]
+  publisher: Addison-Wesley
+  title: "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation"
+
+- id: Cohn2009
+  type: book
+  author:
+    - family: Cohn
+      given: Mike
+  title: "Succeeding with Agile: Software Development Using Scrum"
+  issued:
+    date-parts:
+      - [2009]
+  ISBN: 0321579364
+  publisher: Addison Wesley
+
+- id: ansible2017
+  type: webpage
+  author:
+    - literal: Red Hat
+  title: Ansible
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.ansible.com/
+  accessed:
+    date-parts:
+      - [2017, 5, 24]
+
+- id: openstack2017
+  type: webpage
+  author:
+    - literal: OpenStack Foundation
+  title: OpenStack
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.openstack.org/
+  accessed:
+    date-parts:
+      - [2017, 6, 26]
+
+- id: prestonwerner2013
+  type: webpage
+  author:
+    - family: Preston-Werner
+      given: Tom
+  title: "Semantic Versioning 2.0.0"
+  issued:
+    date-parts:
+      - [2013]
+  URL: http://semver.org/spec/v2.0.0.html
+  accessed:
+    date-parts:
+      - [2017, 5, 29]
+
+- id: docker2017
+  type: webpage
+  author:
+    - literal: Docker Inc.
+  title: Docker - Build, Ship, and Run Any App, Anywhere
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.docker.com/
+  accessed:
+    date-parts:
+      - [2017, 5, 29]
+
+- id: mongo2017
+  type: webpage
+  author:
+    - literal: MongoDB Inc.
+  title: The MongoDB database
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.mongodb.com/
+  accessed:
+    date-parts:
+      - [2017, 5, 30]
+
+- id: georocket2017
+  type: webpage
+  author:
+    - literal: Fraunhofer IGD
+  title: GeoRocket - High-performance data store for geospatial files
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://georocket.io/
+  accessed:
+    date-parts:
+      - [2017, 5, 30]
+
+- id: elastic2017
+  type: webpage
+  author:
+    - literal: Elasticsearch BV
+  title: "Elasticsearch: RESTful, Distributed Search & Analytics"
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.elastic.co/
+  accessed:
+    date-parts:
+      - [2017, 5, 30]
+
+- id: nagios2017
+  type: webpage
+  author:
+    - literal: Nagios Enterprises
+  title: "Nagios - The Industry Standard In IT Infrastructure Monitoringcs"
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://www.nagios.org/
+  accessed:
+    date-parts:
+      - [2017, 6, 1]
+
+- id: prometheus2016
+  type: webpage
+  author:
+    - literal: Prometheus Community
+  title: "Prometheus - Monitoring system & time series database"
+  issued:
+    date-parts:
+      - [2016]
+  URL: https://prometheus.io/
+  accessed:
+    date-parts:
+      - [2017, 6, 1]
+
+- id: grafana2017
+  type: webpage
+  author:
+    - literal: Grafana Labs
+  title: "Grafana - The open platform for analytics and monitoring"
+  issued:
+    date-parts:
+      - [2017]
+  URL: https://grafana.com/
+  accessed:
+    date-parts:
+      - [2017, 6, 1]
+
+- id: Schulte1996a
+  type: report
+  author:
+    - family: Schulte
+      given: W. Roy
+    - family: Natis
+      given: Yefim V.
+  title: '"Service Oriented" Architectures, Part 1'
+  issued:
+    date-parts:
+      - [1996, 4, 12]
+  publisher: Retrieved from Gartner database
+
+- id: Schulte1996b
+  type: report
+  author:
+    - family: Schulte
+      given: W. Roy
+  title: '"Service Oriented" Architectures, Part 2'
+  issued:
+    date-parts:
+      - [1996, 4, 12]
+  publisher: Retrieved from Gartner database
+
+- id: Yefim2003
+  type: report
+  author:
+    - family: Natis
+      given: Yefim V.
+  title: "Service-Oriented Architecture Scenario"
+  issued:
+    date-parts:
+      - [2003, 4, 16]
+  publisher: Retrieved from Gartner database
+
+- id: Josuttis2009
+  type: book
+  author:
+    - family: Josuttis
+      given: Nicolai M.
+  title: "SOA in Practice: The Art of Distributed System Design"
+  issued:
+    date-parts:
+      - [2009]
+  publisher: O'Reilly
+
+- id: Footen2008
+  type: book
+  author:
+    - family: Footen
+      given: John
+    - family: Faust
+      given: Joey
+  title: "The Service-Oriented Media Enterprise: SOA, BPM, and Web Services in Professional Media Systems"
+  issued:
+    date-parts:
+      - [2008]
+  ISBN: 0240809777
+  publisher: Focal Press
+
+- id: DiFrancesco2017
+  type: paper-conference
+  author:
+    - family: Di Francesco
+      given: Paolo
+    - family: Malavolta
+      given: Ivano
+    - family: Lago
+      given: Patricia
+  title: 'Research on Architecting Microservices: Trends, Focus, and Potential for Industrial Adoption'
+  issued:
+    date-parts:
+      - [2017]
+  container-title: IEEE International Conference on Software Architecture ICSA
+  DOI: 10.1109/ICSA.2017.24
+  number-of-pages: 10
+  page: 21-30
+  page-first: 21
+
+- id: Alshuqayran2016
+  type: paper-conference
+  author:
+    - family: Alshuqayran
+      given: Nuha
+    - family: Ali
+      given: Nour
+    - family: Evans
+      given: Roger
+  title: A Systematic Mapping Study in Microservice Architecture
+  issued:
+    date-parts:
+      - [2016]
+  container-title: 9th IEEE International Conference on Service-Oriented Computing and Applications SOCA
+  DOI: 10.1109/SOCA.2016.15
+  number-of-pages: 8
+  page: 44-51
+  page-first: 44
+
+- id: Villamizar2015
+  type: paper-conference
+  author:
+  - family: Villamizar
+    given: Mario
+  - family: Garcés
+    given: Oscar
+  - family: Castro
+    given: Harold
+  - family: Verano
+    given: Mauricio
+  - family: Salamanca
+    given: Lorena
+  - family: Casallas
+    given: Rubby
+  - family: Gil
+    given: Santiago
+  title: Evaluating the monolithic and the microservice architecture pattern to deploy web applications in the cloud
+  issued:
+    date-parts:
+      - [2015]
+  container-title: 10th Computing Colombian Conference 10CCC
+  DOI: 10.1109/ColumbianCC.2015.7333476
+  number-of-pages: 8
+  page: 583-590
+  page-first: 583
+
+- id: Balalaie2016
+  type: article-journal
+  author:
+  - family: Balalaie
+    given: Armin
+  - family: Heydarnoori
+    given: Abbas
+  - family: Jamshidi
+    given: Pooyan
+  title: "Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture"
+  issued:
+    date-parts:
+      - [2016]
+  container-title: IEEE Software
+  DOI: 10.1109/MS.2016.64
+  ISSN: 0740-7459
+  issue: 3
+  number: 3
+  number-of-pages: 11
+  page: 42-52
+  page-first: 42
+  volume: 33
+
+- id: Ciuffoletti2015
+  type: article-journal
+  author:
+    - family: Ciuffoletti
+      given: Augusto
+  issued:
+    date-parts:
+      - [2015]
+  title: Automated Deployment of a Microservice-based Monitoring Infrastructure
+  container-title: Procedia Computer Science
+  volume: 68
+  DOI: http://dx.doi.org/10.1016/j.procs.2015.09.232
+  ISSN: 1877-0509
+  page: 163-172
+  page-first: 163
+  number-of-pages: 10
+
+- id: Amaral2015
+  type: paper-conference
+  author:
+  - family: Amaral
+    given: Marcelo
+  - family: Polo
+    given: Jordà
+  - family: Carrera
+    given: David
+  - family: Mohomed
+    given: Iqbal
+  - family: Unuvar
+    given: Merve
+  - family: Steinder
+    given: Malgorzata
+  title: Performance Evaluation of Microservices Architectures Using Containers
+  issued:
+    date-parts:
+      - [2015]
+  container-title: 14th IEEE International Symposium on Network Computing and Applications
+  DOI: 10.1109/NCA.2015.49
+  number-of-pages: 8
+  page: 27-34
+  page-first: 27
+
+- id: Kratzke2015
+  type: paper-conference
+  author:
+    - family: Kratzke
+      given: Nane
+  title: About Microservices, Containers and their Underestimated Impact on Network Performance
+  issued:
+    date-parts:
+      - [2015]
+  container-title: Proceedings of the 6th International Conference on Cloud Computing, GRIDS and Virtualization CLOUD COMPUTING
+  number-of-pages: 5
+  page: 165-169
+  page-first: 165
+
+- id: Felter2015
+  type: paper-conference
+  author:
+    - family: Felter
+      given: Wes
+    - family: Ferreira
+      given: Alexandre
+    - family: Rajamony
+      given: Ram
+    - family: Rubio
+      given: Juan
+  title: An updated performance comparison of virtual machines and Linux containers
+  issued:
+    date-parts:
+      - [2015]
+  container-title: IEEE International Symposium on Performance Analysis of Systems and Software ISPASS
+  DOI: 10.1109/ISPASS.2015.7095802
+  number-of-pages: 2
+  page: 171-172
+  page-first: 171
+
+- id: Esposito2016
+  type: article-journal
+  author:
+    - family: Esposito
+      given: Christian
+    - family: Castiglione
+      given: Aniello
+    - family: Choo
+      given: Kim-Kwang Raymond
+  title: Challenges in Delivering Software in the Cloud as Microservices
+  issued:
+    date-parts:
+      - [2016]
+  container-title: IEEE Cloud Computing
+  DOI: 10.1109/MCC.2016.105
+  ISSN: 2325-6095
+  issue: 5
+  number: 5
+  number-of-pages: 5
+  page: 10-14
+  page-first: 10
+  volume: 3
+
+- id: Villamizar2016
+  type: paper-conference
+  author:
+    - family: Villamizar
+      given: Mario
+    - family: Garcés
+      given: Oscar
+    - family: Ochoa
+      given: Lina
+    - family: Castro
+      given: Harold
+    - family: Salamanca
+      given: Lorena
+    - family: Verano
+      given: Mauricio
+    - family: Casallas
+      given: Rubby
+    - family: Gil
+      given: Santiago
+    - family: Valencia
+      given: Carlos
+    - family: Zambrano
+      given: Angee
+    - family: Lang
+      given: Mery
+  title: Infrastructure Cost Comparison of Running Web Applications in the Cloud Using AWS Lambda and Monolithic and Microservice Architectures
+  issued:
+    date-parts:
+      - [2016]
+  container-title: 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing CCGrid
+  DOI: 10.1109/CCGrid.2016.37
+  number-of-pages: 4
+  page: 179-182
+  page-first: 179
+
+- id: Toffetti2015
+  type: paper-conference
+  author:
+    - family: Toffetti
+      given: Giovanni
+    - family: Brunner
+      given: Sandro
+    - family: Blöchlinger
+      given: Martin
+    - family: Dudouet
+      given: Florian
+    - family: Edmonds
+      given: Andrew
+  title: An Architecture for Self-managing Microservices
+  issued:
+    date-parts:
+      - [2015]
+  container-title: Proceedings of the 1st International Workshop on Automated Incident Management in Cloud
+  DOI: 10.1145/2747470.2747474
+  ISBN: 978-1-4503-3476-1
+  number-of-pages: 6
+  page: 19-24
+  page-first: 19
+  publisher: ACM
+
+- id: vianden-lichter-steffens-2014
+  type: paper-conference
+  author:
+  - family: Vianden
+    given: Matthias
+  - family: Lichter
+    given: Horst
+  - family: Steffens
+    given: Andreas
+  issued:
+    date-parts:
+      - [2014]
+  container-title: 21st Asia-Pacific Software Engineering Conference
+  DOI: 10.1109/APSEC.2014.37
+  ISSN: 1530-1362
+  number-of-pages: 8
+  page: 183-190
+  page-first: 183
+  title: Experience on a Microservice-Based Reference Architecture for Measurement Systems
+  volume: 1
+
+- id: Alpers2015
+  type: paper-conference
+  author:
+    - family: Alpers
+      given: Sascha
+    - family: Becker
+      given: Christoph
+    - family: Oberweis
+      given: Andreas
+    - family: Schuster
+      given: Thomas
+  title: Microservice Based Tool Support for Business Process Modelling
+  issued:
+    date-parts:
+      - [2015]
+  container-title: 19th IEEE International Enterprise Distributed Object Computing Workshop
+  DOI: 10.1109/EDOCW.2015.32
+  ISSN: 2325-6583
+  number-of-pages: 8
+  page: 71-78
+  page-first: 71
+
+- id: Safina2016
+  type: paper-conference
+  author:
+  - family: Safina
+    given: Larisa
+  - family: Mazzara
+    given: Manuel
+  - family: Montesi
+    given: Fabrizio
+  - family: Rivera
+    given: Victor
+  title: "Data-Driven Workflows for Microservices: Genericity in Jolie"
+  issued:
+    date-parts:
+      - [2016]
+  container-title: 30th IEEE International Conference on Advanced Information Networking and Applications AINA
+  DOI: 10.1109/AINA.2016.95
+  ISSN: 1550-445X
+  number-of-pages: 8
+  page: 430-437
+  page-first: 430
+
+- id: Yang2011
+  type: article-journal
+  author:
+    - family: Yang
+      given: Chaowei
+    - family: Goodchild
+      given: Michael F.
+    - family: Huang
+      given: Qunying
+    - family: Nebert
+      given: Doug
+    - family: Raskin
+      given: Robert
+    - family: Xu
+      given: Yan
+    - family: Bambacus
+      given: Myra
+    - family: Fay
+      given: Daniel
+  title: "Spatial cloud computing: how can the geospatial sciences use and help shape cloud computing?"
+  issued:
+    date-parts:
+      - [2011]
+  container-title: International Journal of Digital Earth
+  DOI: 10.1080/17538947.2011.587547
+  issue: 4
+  number: 4
+  volume: 4
+  number-of-pages: 25
+  page: 305-329
+  page-first: 305
+
+- id: Goodchild2007
+  type: article-journal
+  author:
+    - family: Goodchild
+      given: Michael F.
+  title: "Citizens as sensors: the world of volunteered geography"
+  issued:
+    date-parts:
+      - [2007]
+  container-title: GeoJournal
+  DOI: 10.1007/s10708-007-9111-y
+  ISSN: 1572-9893
+  issue: 4
+  number: 4
+  volume: 69
+  number-of-pages: 11
+  page: 211-221
+  page-first: 211
+
+- id: Vatsavai2012
+  type: paper-conference
+  author:
+    - family: Vatsavai
+      given: Ranga Raju
+    - family: Ganguly
+      given: Auroop
+    - family: Chandola
+      given: Varun
+    - family: Stefanidis
+      given: Anthony
+    - family: Klasky
+      given: Scott
+    - family: Shekhar
+      given: Shashi
+  title: "Spatiotemporal Data Mining in the Era of Big Spatial Data: Algorithms and Applications"
+  issued:
+    date-parts:
+    - [2012]
+  container-title: Proceedings of the 1st ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data
+  DOI: 10.1145/2447481.2447482
+  ISBN: 978-1-4503-1692-7
+  number-of-pages: 10
+  page: 1-10
+  page-first: 1
+  publisher: ACM
+
+- id: Cahalane2012
+  type: paper-conference
+  author:
+  - family: Cahalane
+    given: Conor
+  - family: McCarthy
+    given: Tim
+  - family: McElhinney
+    given: Conor P.
+  title: "MIMIC: Mobile Mapping Point Density Calculator"
+  issued:
+    date-parts:
+      - [2012]
+  container-title: Proceedings of the 3rd International Conference on Computing for Geospatial Research and Applications
+  DOI: 10.1145/2345316.2345335
+  ISBN: 978-1-4503-1113-7
+  page: 15:1–15:9
+  page-first: 15:1
+  publisher: ACM
+
+- id: Paparoditis2012
+  type: article-journal
+  author:
+    - family: Paparoditis
+      given: N.
+    - family: Papelard
+      given: J. P.
+    - family: Cannelle
+      given: B.
+    - family: Devaux
+      given: A.
+    - family: Soheilian
+      given: B.
+    - family: David
+      given: N
+    - family: Houzay
+      given: E.
+  issued:
+    date-parts:
+      - [2012]
+  title: "Stereopolis II: A multi-purpose and multi-sensor 3D mobile mapping system for street visualisation and 3D metrology"
+  container-title: Revue française de photogrammétrie et de télédétection
+  volume: 200
+  issue: 1
+  page: 69-79
+  page-first: 69
+  number-of-pages: 11
+
+- id: Kitchin2016
+  type: article-journal
+  author:
+  - family: Kitchin
+    given: Rob
+  - family: McArdle
+    given: Gavin
+  title: What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets
+  issued:
+    date-parts:
+      - [2016]
+  container-title: Big Data & Society
+  DOI: 10.1177/2053951716631130
+  issue: 1
+  number: 1
+  number-of-pages: 10
+  page: 1-10
+  page-first: 1
+  volume: 3
+
+- id: marz2015
+  type: book
+  author:
+    - family: Marz
+      given: Nathan
+    - family: Warren
+      given: James
+  issued:
+    date-parts:
+      - [2015]
+  edition: 1st
+  publisher: Manning Publications Co.
+  ISBN: "9781617290343"
+  title: "Big Data: Principles and Best Practices of Scalable Realtime Data Systems"
+
+- id: Kreps2014
+  type: webpage
+  author:
+    - family: Kreps
+      given: Jay
+  title: "Questioning the Lambda Architecture"
+  issued:
+    date-parts:
+      - [2014]
+  URL: https://www.oreilly.com/ideas/questioning-the-lambda-architecture
+  accessed:
+    date-parts:
+      - [2017, 6, 14]
+
+- id: PetersAnders2014
+  type: paper-conference
+  author:
+    - family: Peters-Anders
+      given: Jan
+    - family: Loibl
+      given: Wolfgang
+    - family: Züger
+      given: Johann
+    - family: Khan
+      given: Zaheer
+    - family: Ludlow
+      given: David
+  title: "Exploring population distribution and motion dynamics through mobile phone device data in selected cities - lessons learned from the UrbanAPI project"
+  issued:
+    date-parts:
+      - [2014]
+  container-title: "Proceedings of 19th International Conference on Urban Planning, Regional Development and Information Society REAL CORP"
+  page: "871-876"
+  page-first: 871
+  number-of-pages: 6
+
+- id: Krylovskiy2015
+  type: paper-conference
+  author:
+  - family: Krylovskiy
+    given: Alexandr
+  - family: Jahn
+    given: Marco
+  - family: Patti
+    given: Edoardo
+  title: Designing a Smart City Internet of Things Platform with Microservice Architecture
+  issued:
+    date-parts:
+    - [2015]
+  container-title: Proceedings of the 3rd International Conference on Future Internet of Things and Cloud
+  DOI: 10.1109/FiCloud.2015.55
+  number-of-pages: 6
+  page: 25-30
+  page-first: 25
+
+- id: Lee2008
+  type: article-journal
+  author:
+  - family: Lee
+    given: Craig
+  - family: Percivall
+    given: George
+  title: Standards-Based Computing Capabilities for Distributed Geospatial Applications
+  issued:
+    date-parts:
+    - [2008]
+  container-title: Computer
+  DOI: 10.1109/MC.2008.468
+  ISSN: 0018-9162
+  issue: 11
+  number-of-pages: 8
+  page: 50-57
+  page-first: 50
+  publisher: IEEE Computer Society Press
+  volume: 41
+
+- id: sirmacek2015
+  type: paper-conference
+  author:
+    - family: Sirmacek
+      given: Beril
+    - family: Lindenbergh
+      given: Roderik
+  title: Automatic classification of trees from laser scanning point clouds
+  issued:
+    date-parts:
+      - [2015]
+  container-title: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+  volume: II-3/W5
+  page: 137-144
+  page-first: 137
+  number-of-pages: 8
+  publisher: ISPRS
+  DOI: 10.5194/isprsannals-II-3-W5-137-2015
+
+- id: Monnier2012
+  type: paper-conference
+  author:
+    - family: Monnier
+      given: Fabrice
+    - family: Vallet
+      given: Bruno
+    - family: Soheilian
+      given: Bahman
+  title: Trees Detection from Laser Point Clouds Acquired in Dense Urban Areas by a Mobile Mapping System
+  issued:
+    date-parts:
+      - [2012]
+  container-title: ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences
+  volume: I-3
+  page: 245-250
+  page-first: 245
+  number-of-pages: 6
+  publisher: ISPRS
+  DOI: 10.5194/isprsannals-I-3-245-2012
+
+- id: Tushaus2014
+  type: article-journal
+  author:
+    - family: Tushaus
+      given: Samantha
+  title: Understanding mountain rain
+  issued:
+    date-parts:
+      - [2014]
+  container-title: Physics Today
+  volume: September 2014
+  DOI: 10.1063/PT.5.4005
+
+- id: DAmatoAvanzi2015
+  type: chapter
+  author:
+  - family: D'Amato Avanzi
+    given: Giacomo
+  - family: Galanti
+    given: Yuri
+  - family: Giannecchini
+    given: Roberto
+  - family: Bartelletti
+    given: Carlotta
+  collection-editor:
+  - family: Lollino
+    given: Giorgio
+  - family: Giordan
+    given: Daniele
+  - family: Crosta
+    given: Giovanni B.
+  - family: Corominas
+    given: Jordi
+  - family: Azzam
+    given: Rafig
+  - family: Wasowski
+    given: Janusz
+  - family: Sciarra
+    given: Nicola
+  title: Shallow Landslides Triggered by the 25 October 2011 Extreme Rainfall in Eastern Liguria (Italy)
+  issued:
+    date-parts:
+    - [2015]
+  collection-title: "Engineering Geology for Society and Territory - Volume 2: Landslide Processes"
+  DOI: 10.1007/978-3-319-09057-3_85
+  ISBN: 978-3-319-09057-3
+  number-of-pages: 5
+  page: 515-519
+  page-first: 515
+  publisher: Springer International Publishing
+
+- id: Demantke2011
+  type: paper-conference
+  author:
+    - family: Demantké
+      given: Jerome
+    - family: Mallet
+      given: Clément
+    - family: David
+      given: Nicolas
+    - family: Vallet
+      given: Bruno
+  title: Dimensionality Based Scale Selection in 3D LiDAR Point Clouds
+  issued:
+    date-parts:
+      - [2011]
+  container-title: ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+  volume: XXXVIII-5/W12
+  page: 97-102
+  page-first: 97
+  number-of-pages: 6
+  publisher: ISPRS
+  DOI: 10.5194/isprsarchives-XXXVIII-5-W12-97-2011
+
+- id: Weinmann2014
+  type: paper-conference
+  author:
+    - family: Weinmann
+      given: Martin
+    - family: Jutzi
+      given: Boris
+    - family: Mallet
+      given: Clément
+  title: "Semantic 3D scene interpretation: A framework combining optimal neighborhood size selection with relevant features"
+  issued:
+    date-parts:
+      - [2014]
+  container-title: ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences
+  volume: II-3
+  page: 181-188
+  page-first: 181
+  number-of-pages: 8
+  publisher: ISPRS
+  DOI: 10.5194/isprsannals-II-3-181-2014
+
+- id: Breiman2001
+  type: article-journal
+  author:
+  - family: Breiman
+    given: Leo
+  issued:
+    date-parts:
+    - [2001]
+  container-title: Machine Learning
+  DOI: 10.1023/A:1010933404324
+  ISSN: 1573-0565
+  issue: 1
+  number-of-pages: 28
+  page: 5-32
+  page-first: 5
+  title: Random Forests
+  volume: 45
+
+- id: Shewchuk1996
+  type: paper-conference
+  author:
+  - family: Shewchuk
+    given: Jonathan Richard
+  editor:
+  - family: Lin
+    given: Ming C.
+  - family: Manocha
+    given: Dinesh
+  title: 'Triangle: Engineering a 2D quality mesh generator and Delaunay triangulator'
+  issued:
+    date-parts:
+      - [1996]
+  container-title: 'Applied Computational Geometry Towards Geometric Engineering'
+  DOI: 10.1007/BFb0014497
+  ISBN: 978-3-540-70680-9
+  volume: 1148 of the Lecture Notes in Computer Science
+  number-of-pages: 20
+  page: 203-222
+  page-first: 203
+  publisher: Springer Berlin Heidelberg
+
+- id: OHanlon2006
+  type: article-journal
+  author:
+    - family: O'Hanlon
+      given: Charlene
+  title: A Conversation with Werner Vogels
+  container-title: Queue
+  issued:
+    date-parts:
+      - [2006, 5]
+  volume: 4
+  page: "14:14-14:22"
+  number-of-pages: 9
+  DOI: 10.1145/1142055.1142065
+  publisher: ACM
+
+- id: idc2017
+  type: report
+  author:
+    - family: Reinsel
+      given: David
+    - family: Gantz
+      given: John
+    - family: Rydning
+      given: John
+  title: Data Age 2025 - The Evolution of Data to Life-Critical
+  issued:
+    date-parts:
+      - [2017, 4]
+  publisher: An IDC White Paper, Sponsored by Seagate
+
+- id: Coppock199121
+  type: article-journal
+  author:
+  - family: Coppock
+    given: J. T.
+  - family: Rhind
+    given: D. W.
+  editor:
+  - family: Maguire
+    given: D. J.
+  issued:
+    date-parts:
+    - [1991]
+  title: The history of GIS
+  container-title: Geographical information systems
+  volume: 1
+  number-of-pages: 23
+  page: 21-43
+  page-first: 21
+  publisher: "Longman/Wiley"
+
+- id: geotrellis2017
+  type: webpage
+  author:
+    - literal: LocationTech
+  title: GeoTrellis
+  issued:
+      date-parts:
+        - [2017]
+  URL: https://geotrellis.io
+  accessed:
+    date-parts:
+      - [2017, 7, 20]
+
+- id: liu2016
+  type: article-journal
+  author:
+  - family: Liu
+    given: Kun
+  - family: Boehm
+    given: Jan
+  - family: Alis
+    given: Christian
+  issued:
+    date-parts:
+    - [2016]
+  container-title: ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+  DOI: 10.5194/isprs-archives-XLI-B3-309-2016
+  number-of-pages: 5
+  page: 309-313
+  page-first: 309
+  title: Change Detection of Mobile LiDAR Data Using Cloud Computing
+  volume: XLI-B3
+
+- id: warren2015
+  type: paper-conference
+  author:
+  - family: Warren
+    given: M. S.
+  - family: Brumby
+    given: S. P.
+  - family: Skillman
+    given: S. W.
+  - family: Kelton
+    given: T.
+  - family: Wohlberg
+    given: B.
+  - family: Mathis
+    given: M.
+  - family: Chartrand
+    given: R.
+  - family: Keisler
+    given: R.
+  - family: Johnson
+    given: M.
+  issued:
+    date-parts:
+    - [2015]
+  container-title: IEEE Applied Imagery Pattern Recognition Workshop (AIPR)
+  DOI: 10.1109/AIPR.2015.7444536
+  number-of-pages: 12
+  page: 1-12
+  page-first: 1
+  title: 'Seeing the Earth in the Cloud: Processing one petabyte of satellite imagery in one day'
+
+- id: Peffers2007
+  type: article-journal
+  author:
+  - family: Peffers
+    given: Ken
+  - family: Tuunanen
+    given: Tuure
+  - family: Rothenberger
+    given: Marcus
+  - family: Chatterjee
+    given: Samir
+  issued:
+    date-parts:
+    - [2007]
+  title: A Design Science Research Methodology for Information Systems Research
+  container-title: Journal of Management Information Systems
+  DOI: 10.2753/MIS0742-1222240302
+  ISSN: 0742-1222
+  issue: 3
+  number-of-pages: 33
+  page: 45-77
+  page-first: 45
+  publisher: M. E. Sharpe, Inc.
+  volume: 24
+
+- id: Hevner2004
+  type: article-journal
+  author:
+  - family: Hevner
+    given: Alan R.
+  - family: March
+    given: Salvatore T.
+  - family: Park
+    given: Jinsoo
+  - family: Ram
+    given: Sudha
+  issued:
+    date-parts:
+    - [2004]
+  title: Design Science in Information Systems Research
+  container-title: MIS Quarterly
+  ISSN: 0276-7783
+  issue: 1
+  number-of-pages: 31
+  page: 75-105
+  page-first: 75
+  publisher: Society for Information Management and The Management Information Systems Research Center
+  volume: 28
+
+- id: ISO19115
+  type: report
+  author:
+    - literal: "ISO 19115-1"
+      parse-names: false
+  title: "Geographic information -- Metadata -- Part 1: Fundamentals"
+  issued:
+    date-parts:
+      - [2014]
+  publisher: International Organization for Standardization, Geneva, Switzerland
+
+- id: ISO19119
+  type: report
+  author:
+    - literal: "ISO 19119"
+      parse-names: false
+  title: "Geographic information -- Services"
+  issued:
+    date-parts:
+      - [2016]
+  publisher: International Organization for Standardization, Geneva, Switzerland
+
+- id: gil2011
+  type: article-journal
+  author:
+    - family: Gil
+      given: Yolanda
+    - family: Ratnakar
+      given: Varun
+    - family: Kim
+      given: Jihie
+    - family: González-Calero
+      given: Pedro A.
+    - family: Groth
+      given: Paul T.
+    - family: Moody
+      given: Joshua
+    - family: Deelman
+      given: Ewa
+  issued:
+    date-parts:
+      - [2011]
+  container-title: IEEE Intelligent Systems
+  title: 'Wings: Intelligent Workflow-Based Design of Computational Experiments'
+  volume: 26
+  issue: 1
+  page: 62-72
+  page-first: 62
+  number-of-pages: 11
+  DOI: 10.1109/MIS.2010.9

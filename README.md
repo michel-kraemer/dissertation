@@ -12,7 +12,7 @@ How to cite
 
 Please cite this work as follows:
 
-> Krämer, M. (2018). *A Microservice Architecture for the Processing of Large Geospatial Data in the Cloud* (Doctoral dissertation). Technische Universität Darmstadt. Retrieved from http://tuprints.ulb.tu-darmstadt.de/6956/
+> Krämer, M. (2018). *A Microservice Architecture for the Processing of Large Geospatial Data in the Cloud* (Doctoral dissertation). Technische Universität Darmstadt. https://doi.org/10.13140/RG.2.2.30034.66248
 
 ```bibtex
 @phdthesis{kraemer2018,
@@ -20,6 +20,6 @@ Please cite this work as follows:
   title  = {A Microservice Architecture for the Processing of Large Geospatial Data in the Cloud},
   year   = {2018},
   school = {Technische Universit{\"a}t Darmstadt},
-  url    = {http://tuprints.ulb.tu-darmstadt.de/6956/}
+  doi    = {https://doi.org/10.13140/RG.2.2.30034.66248}
 }
 ```
